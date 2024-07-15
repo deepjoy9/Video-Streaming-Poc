@@ -15,3 +15,8 @@ This is a video streaming application where users can upload videos to a local s
 - **React.js**: Frontend library for building the user interface.
 - **Video.js**: Video player library for handling video playback.
 - **Multer**: Middleware for handling `multipart/form-data`, used for uploading files.
+
+
+## App Screenshots
+
+![Table](https://res.cloudinary.com/dfzzmqoho/image/upload/v1721076683/My-Project-Images/video-streaming-app_mvk5jr.png)
